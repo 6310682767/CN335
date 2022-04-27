@@ -6,11 +6,11 @@ CN335
 Night of the Living Dead
 
 องค์ประกอบ
-Zombie motion - https://www.mixamo.com/#/?page=1&query=zombie&type=Motion%2CMotionPack
+Zombie motion - https://www.mixamo.com/#/?page=1&query=zombie&type=Motion%2CMotionPack /
 House - https://skfb.ly/6VEMw
 
 เสียงประกอบ
-Forest ambience - https://www.youtube.com/watch?v=xNN7iTA57jM&t=7s
+Forest ambience - https://www.youtube.com/watch?v=xNN7iTA57jM&t=7s /
 Zombie sound - https://www.youtube.com/watch?v=s82sGCaTCxw
 
 เรื่องย่อ
